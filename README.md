@@ -34,6 +34,6 @@ Preparing to relocate to **Denmark** and open to DevOps / SRE roles in cloud or 
 ---
 
 ## 📫 Contact
-- Website: https://benjaesteban.github.io  
+- Website: https://www.benjaesteban.com
 - LinkedIn: https://linkedin.com/in/benjamin-rodriguez-valenzuela  
 - GitHub: https://github.com/BenjaEsteban  
